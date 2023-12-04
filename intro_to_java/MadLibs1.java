@@ -1,3 +1,4 @@
+package intro_to_java;
 public class MadLibs1 {
     public static void main(String[] args) {
         // Fill these in with silly words/strings

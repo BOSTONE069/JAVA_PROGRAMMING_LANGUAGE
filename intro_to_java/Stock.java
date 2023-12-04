@@ -1,3 +1,4 @@
+package intro_to_java;
 public class Stock {
     private String tickerSymbol;
     private String companyName;

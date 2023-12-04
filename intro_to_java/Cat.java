@@ -1,3 +1,4 @@
+package intro_to_java;
 /**
  * The `Cat` class is a subclass of the `Pet` class. It represents a cat and provides specific implementations for its behavior.
  */

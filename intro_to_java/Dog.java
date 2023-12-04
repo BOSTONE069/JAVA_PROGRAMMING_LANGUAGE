@@ -1,3 +1,4 @@
+package intro_to_java;
 /**
  * Represents a dog and provides specific functionalities and behaviors for dogs.
  */

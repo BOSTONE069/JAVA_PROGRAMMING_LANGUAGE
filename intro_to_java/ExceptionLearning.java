@@ -1,3 +1,4 @@
+package intro_to_java;
 public class ExceptionLearning {
 
     public static void main(String[] args) {

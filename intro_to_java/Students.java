@@ -1,4 +1,6 @@
-  // How can we make the Student class inherit from class Person?
+// How can we make the Student class inherit from class Person?
+package intro_to_java;
+
   public class Students extends Person{
      private int id;
 

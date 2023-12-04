@@ -1,3 +1,4 @@
+package intro_to_java;
 import java.util.*; // This is the required import for an ArryaList and/or List
 
 public class ArrayListBasics {

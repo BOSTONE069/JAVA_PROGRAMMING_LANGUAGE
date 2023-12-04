@@ -1,3 +1,5 @@
+package intro_to_java;
+
 public class Pet {
     private String name;
     private String type;
