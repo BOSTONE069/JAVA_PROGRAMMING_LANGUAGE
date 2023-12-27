@@ -3,6 +3,10 @@ package week_three;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
+// This code demonstrates the manipulation of a LinkedHashSet in Java.
+// It adds elements to the set, prints the size of the set, and iterates through the elements using both a for-each loop and an iterator.
+// It also removes an element from the set, checks if a specific element exists, and clears the set.
+
 public class LinkedHashSetManipulation {
 
 	public static void main(String[] args) {
