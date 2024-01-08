@@ -1,4 +1,4 @@
-package week_four.monday;
+package week_four;
 
 public class Textbook extends Book{
 
