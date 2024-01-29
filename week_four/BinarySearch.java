@@ -3,7 +3,7 @@ package week_four;
 import java.util.ArrayList;
 
 public class BinarySearch {
-
+	// This is a binary search algorithm
     public static int binarySearch(ArrayList<Integer> list, int target){
 
         int low = 0;
@@ -22,6 +22,7 @@ public class BinarySearch {
         return  -1;
     }
 
+    //Using the list to look for the value 4 in the search algorithm.
     public static void main(String[] args){
         ArrayList<Integer> list = new ArrayList<Integer>();
         list.add(1);
