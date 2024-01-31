@@ -4,6 +4,8 @@ import java.nio.file.*;
 import java.io.*;
 
 public class MyFileWriter {
+	
+	//Code for file handling in java
 
     public static void main(String[] args) {
         String home = System.getProperty("user.home");
