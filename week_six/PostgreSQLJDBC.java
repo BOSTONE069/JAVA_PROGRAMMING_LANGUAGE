@@ -4,6 +4,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class PostgreSQLJDBC {
+	
+	//Configuring Java Database Connnectivity
 
 	public static void main(String[] args) {
 		Connection c = null;
